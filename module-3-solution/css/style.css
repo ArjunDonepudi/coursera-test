@@ -1,3 +1,46 @@
-.text-center {
+h1{
 	text-align: center;
+	text-decoration: underline;
+}
+#chicken{
+	font-weight: bolder;
+	font-family: monospace;
+	font-size: 20px;
+}
+
+#chicken-div{
+	background-color:lightpink;
+	border: 4px solid black;
+	border-style: dotted;
+}
+#beef{
+	font-weight: bolder;
+	font-family: monospace;
+	font-size: 20px;
+}
+
+#beef-div{
+	background-color:lightblue;
+	border: 4px solid black;
+	border-style: dotted;
+}
+#sushi{
+	font-weight: bolder;
+	font-family: monospace;
+	font-size: 20px;
+}
+
+#sushi-div{
+	background-color:lightgreen;
+	border: 4px solid black;
+	border-style: dotted;
+}
+.nav-brand{
+	font-size: 40px;
+	text-decoration: overline underline;
+	text-align:center;
+	background-color: whitesmoke;
+}
+.nav-header{
+	background-color: antiquewhite;
 }
